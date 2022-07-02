@@ -2,12 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * 
- * main -The variable n will store a different value every time you will run this program
- * Description: This program will assign a random number to the
- * variable n each time it is executed.
- *
- * Return: Always 0 (Success)
+ * main - main block
+ * Description: Get a random number and print the number
+ * and if it is positive, negative, or zero
+ * Return: 0
  */
 int main(void)
 {
