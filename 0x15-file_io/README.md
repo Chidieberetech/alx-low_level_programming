@@ -8,7 +8,7 @@ read, write, set permissions of files in C.
 
 ## Header File :file_folder:
 
-* [main.h](./main.h): Header file containing prototypes for all functions
+* [main.h](./0-main.h): Header file containing prototypes for all functions
 written in the project.
 
 | File                      | Prototype                                                            |
