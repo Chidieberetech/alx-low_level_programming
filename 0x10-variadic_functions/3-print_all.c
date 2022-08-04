@@ -1,6 +1,6 @@
 /*
  * File: 3-print_all.c
- * Auth: Tolulope Fakunle
+ * Auth: Teroxlab
  */
 
 #include "variadic_functions.h"
